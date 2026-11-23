@@ -1,5 +1,8 @@
 # 루나 카페
 
-커피 주문과 10칸 스탬프 쿠폰을 제공하는 Next.js 프로젝트입니다.
+커피 메뉴 주문과 10칸 스탬프 쿠폰.
 
-실행: `npm install` 후 `npm run dev`.
+npm install
+npm run dev
+
+주문은 화면 내 체험이며 새로고침하면 초기화됩니다.
